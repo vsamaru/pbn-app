@@ -15,10 +15,11 @@
     "jimp": "^0.16.2",
     "kmeans-ts": "^1.0.4",
     "node-kmeans": "^1.1.9",
+    "path-browserify": "^1.0.1",
     "react": "^18.2.0",
     "react-bootstrap": "^2.6.0",
     "react-dom": "^18.2.0",
-    "react-scripts": "^5.0.1",
+    "react-scripts": "^4.0.3",
     "sharp": "^0.31.2",
     "ts-shader-loader": "^2.0.2",
     "web-vitals": "^3.1.0"
